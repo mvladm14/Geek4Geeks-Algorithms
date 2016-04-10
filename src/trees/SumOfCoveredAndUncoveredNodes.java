@@ -1,3 +1,4 @@
+package trees;
 
 public class SumOfCoveredAndUncoveredNodes {
 

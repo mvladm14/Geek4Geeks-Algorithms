@@ -1,3 +1,4 @@
+package interviews;
 // Checks whether a given structure is binary tree,
 // a double linked list or none of these
 public class DLListOrBinaryTreeorNoneChecker {
