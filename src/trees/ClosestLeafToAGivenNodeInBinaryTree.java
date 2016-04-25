@@ -55,7 +55,6 @@ public class ClosestLeafToAGivenNodeInBinaryTree {
 		}
 
 		return -1;
-
 	}
 
 	private static int getMinDistanceFromRootToLeaves(Node root) {
